@@ -1,0 +1,6 @@
+git config --global user.email "rmw10762@gmail.com"
+git config --global user.name "Roman Williams"
+git add chocolate.txt
+git commit -m "Add favorite flavor of ice cream"
+git remote add origin <repository_URL>
+git push -u origin master
